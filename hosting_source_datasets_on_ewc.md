@@ -41,6 +41,8 @@ s3://danra/ (bucket):
 
 ## 2. Upload files
 
+To both of the commands below you can add the flag `--acl-public` to make the files publically readable.
+
 
 Single file:
 
