@@ -1,0 +1,21 @@
+name: kerchunk
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - python=3.10
+  - fsspec
+  - kerchunk
+  - cftime
+  - dask
+  - h5netcdf
+  - h5py
+  - jinja2
+  - s3fs
+  - xarray
+  - cfgrib
+  - netcdf4
+  - scipy
+  - ipython
+  - tqdm
+
